@@ -1,0 +1,18 @@
+.hours {
+    color: red;
+}
+
+.minutes {
+    color: purple
+}
+
+.seconds {
+    color: blue;
+}
+
+div {
+    margin: 50px;
+    display: inline-block;
+    border: 2px solid blue;
+    padding: 10px;
+}
